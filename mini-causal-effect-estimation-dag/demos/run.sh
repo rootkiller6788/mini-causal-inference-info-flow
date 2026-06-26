@@ -1,0 +1,2 @@
+# Run demos
+make test
